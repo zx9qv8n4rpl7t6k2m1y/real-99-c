@@ -273,7 +273,7 @@ const progressBarEmpty = document.querySelector("#unity-progress-bar-empty");
 const progressBarFull  = document.querySelector("#unity-progress-bar-full");
 const spinner          = document.querySelector('.spinner');
 
-canvas.style.background = "url('https://cdn.jsdelivr.net/gh/docs-g-classroommyflies/real-99-c@main/background.png') center / cover";
+canvas.style.background = "url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/efacdd67-ec59-4d24-ac43-38698e116ce2.png') center / cover";
 loadingCover.style.display = "";
 
 if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
